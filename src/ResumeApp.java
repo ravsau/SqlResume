@@ -134,7 +134,7 @@ public class ResumeApp {
 
 			skillCount=sc.nextInt();
 			sc.nextLine();}
-		while(skillCount<1 || skillCount>10);
+		while(skillCount<1 || skillCount>20);
 
 
 
@@ -180,7 +180,7 @@ public class ResumeApp {
 
 			skills+= skill+"," +level+"\n";
 
-			System.out.println(skills);
+			
 
 
 
