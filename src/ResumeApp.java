@@ -198,9 +198,12 @@ public class ResumeApp {
 
 		SqlJava newSql= new SqlJava();
 		newSql.sqlMethod(firstName,lastName,email,edu,work,skills);
+		
 
 
-
+//--end databse 
+		
+		
 		//  Starts Printing Resume 
 
 
